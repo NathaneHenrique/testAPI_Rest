@@ -1,0 +1,17 @@
+{
+  "name": "testapi_rest",
+  "version": "1.0.0",
+  "description": "Automação API Rest com Cypress!\r Este repositório contém uma suíte de testes automatizados desenvolvidos para a API de uma aplicação real com o framework Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.6"
+  }
+}
